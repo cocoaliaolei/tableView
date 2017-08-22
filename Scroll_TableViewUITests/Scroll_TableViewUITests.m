@@ -2,8 +2,8 @@
 //  Scroll_TableViewUITests.m
 //  Scroll_TableViewUITests
 //
-//  Created by 廖磊 on 2017/6/19.
-//  Copyright © 2017年 廖磊. All rights reserved.
+//  Created by on 2017/6/19.
+//  Copyright © 2017年. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
